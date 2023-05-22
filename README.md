@@ -13,7 +13,7 @@ Here are some stuf about me 😜:
  📝Studying Computer Science at Uninassau Recife!💻
 
 - 👯 I’m looking to collaborate on:
- 👾Game Dev, Front and back end problems!😉
+ 👾Game Dev and Solve Front and Back end problems!😉
 
 - 🤔 I’m looking for help with: 
  🤔nothing for now, thanks!😁
@@ -98,7 +98,7 @@ Aqui estão algumas coisas sobre mim 😜:
  📝Estudando Ciência da Computação na Uninassau Recife!💻
 
 - 👯 Estou procurando colaborar em:
- 👾Game Dev, problemas front-end e back-end!😉
+ 👾Game Dev e Resolver problemas de Front e Back-end!😉
 
 - 🤔 Estou procurando ajuda com:
  🤔nada por enquanto, obrigado!😁
