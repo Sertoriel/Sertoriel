@@ -82,7 +82,7 @@ My e-mail✉️: ( jotaduarfar@gmail.com )
 
 ##
 
-### Pt-BR! <img src = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emoji-one/5/flag-for-brazil_1f1e7-1f1f7.png" width = 20px>
+### Pt-BR! <img src = " https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/413px-Flag_of_Brazil.svg.png " width = 20px>
 ### Olá 👋
 
 Aqui estão algumas coisas sobre mim 😜:
