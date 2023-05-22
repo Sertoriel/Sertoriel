@@ -55,17 +55,17 @@ My e-mail✉️: ( jotaduarfar@gmail.com )
 <div style="display: inline_block">
 <br>
 
-  <img align="center" alt="Js" width="135" src="https://res.cloudinary.com/practicaldev/image/fetch/s--kbKzVIJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack">
+  <img align="center" alt="Js" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
-  <img align="center" alt="Java" width="80" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite">
+  <img align="center" alt="Java" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="center" alt="HTML" width="95" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oicIUVtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite">
+  <img align="center" alt="HTML" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
-  <img align="center" alt="CSS" width="80" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rGgyOnJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite">
+  <img align="center" alt="CSS" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
-  <img align="center" alt="C++" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C#" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   
-  <img align="center" alt="Boots" width="135" src="https://res.cloudinary.com/practicaldev/image/fetch/s--alRGNk02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Bootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
+  <img align="center" alt="Boots" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
   <img align="right" alt="Sertori" width="250px" src="https://cdn.discordapp.com/attachments/964382948906401812/1045881816374055055/ezgif-1-6a9ea8ca26.gif">
 </div>
