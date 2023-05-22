@@ -63,7 +63,7 @@ My e-mail✉️: ( jotaduarfar@gmail.com )
   
   <img align="center" alt="CSS" width="80" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rGgyOnJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite">
   
-  <img align="center" alt="C++" width="75" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6Ri8EqF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite">
+  <img align="center" alt="C++" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   
   <img align="center" alt="Boots" width="135" src="https://res.cloudinary.com/practicaldev/image/fetch/s--alRGNk02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Bootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
   
