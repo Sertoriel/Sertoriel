@@ -1,5 +1,5 @@
 ### Hi there 👋
-#<img align="right" alt="Sertori" width="250px" src="https://cdn.discordapp.com/attachments/964382948906401812/1045881816374055055/ezgif-1-6a9ea8ca26.gif">
+//<img align="right" alt="Sertori" width="250px" src="https://cdn.discordapp.com/attachments/964382948906401812/1045881816374055055/ezgif-1-6a9ea8ca26.gif">
 </div>
 
 ##
