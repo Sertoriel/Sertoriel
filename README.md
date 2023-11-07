@@ -22,7 +22,7 @@ Here are some stuf about me 😜:
 
 - 📫 How to reach me:
 My e-mail✉️: ( jotaduarfar@gmail.com )
- My nunber📱: +55 81 98748-8758
+ My nunber📱: +55 81 97914-8748
 
 - 😄 Pronouns: 
  👾him/his😉
@@ -107,7 +107,7 @@ Aqui estão algumas coisas sobre mim 😜:
 
 - 📫 Como chegar até mim:
 Meu e-mail✉️: ( jotaduarfar@gmail.com )
- Meu número📱: +55 81 98748-8758
+ Meu número📱: +55 81 97914-8748
 
 - 😄 Pronomes:
  👾ele/dele😉
