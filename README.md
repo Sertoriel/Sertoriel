@@ -116,6 +116,4 @@ Meu e-mail✉️: ( jotaduarfar@gmail.com )
  Eu amo jogos em geral👾🤖👽, e quero me tornar o melhor desenvolvedor de jogos de todos os tempos!!!🤩
  <div>
   
-  ![Snake animation](https://github.com/Sertoriel/Sertoriel/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
