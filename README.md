@@ -24,9 +24,6 @@ Here are some stuf about me 😜:
 My e-mail✉️: ( jotaduarfar@gmail.com )
  My nunber📱: +55 81 97914-8748
 
-- 😄 Pronouns: 
- 👾him/his😉
-
 - ⚡ Fun fact: 
  I love Games in general👾🤖👽, and i want to become the best Game Dev EVER!!!🤩
  
@@ -108,9 +105,6 @@ Aqui estão algumas coisas sobre mim 😜:
 - 📫 Como chegar até mim:
 Meu e-mail✉️: ( jotaduarfar@gmail.com )
  Meu número📱: +55 81 97914-8748
-
-- 😄 Pronomes:
- 👾ele/dele😉
 
 - ⚡ Curiosidade:
  Eu amo jogos em geral👾🤖👽, e quero me tornar o melhor desenvolvedor de jogos de todos os tempos!!!🤩
