@@ -6,16 +6,16 @@
 Here are some stuff about me 😜:
 
 - 🔭 I’m currently working on:  
- 👾 I'm back in the tech field, currently looking for new opportunities! 🚀
+ 👾 I've returned to the tech field and am currently interning with the Development Team at Datametrica. 🚀
 
 - 🌱 I’m currently learning:  
- 📝 Studying Computer Science at Uninassau Recife (7th semester). 💻
+ 📝 Studying Computer Science at Uninassau Recife (8th semester). 💻
 
 - 👯 I’m looking to collaborate on:  
  👾 Back-end development, Game Dev, and solving tech problems! 😉
 
 - 🤔 I’m looking for help with:  
- 🤔 Nothing for now, thanks! 😁
+ 🤔 AI System Development!😁
 
 - 💬 Ask me about:  
  😉 Everything!! If I have the answer and can share it, I will! 😁
