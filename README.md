@@ -1,7 +1,8 @@
 ### Hi there 👋
 </div>
 
-##
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 
 Here are some stuff about me 😜:
 
@@ -58,7 +59,8 @@ Here are some stuff about me 😜:
   <img align="center" alt="Tailwind" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-##
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 ### Social Media 🎥🍃🍷🗿
 <div> 
   <a href="https://www.youtube.com/channel/UCMe4vX2ulgseDp77Dnp0iAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -69,3 +71,5 @@ Here are some stuff about me 😜:
   <a href="https://www.linkedin.com/in/joão-arthur-duarte-b7a8a7200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
