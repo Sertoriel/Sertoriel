@@ -7,7 +7,7 @@
 Here are some stuff about me 😜:
 
 - 🔭 I’m currently working on:  
- 👾 I've returned to the tech field and am currently interning with the Development Team at Datametrica. 🚀
+👾 I've returned to the tech field and am currently finding new opportunities to show what I'm capable of! 🚀
 
 - 🌱 I’m currently learning:  
  📝 Studying Computer Science at Uninassau Recife (8th semester). 💻
