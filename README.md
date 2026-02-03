@@ -1,5 +1,5 @@
 # Hi there, I'm João Arthur! 👋
-## Software Engineer | Backend & Game Developer
+## JR Software Engineer | Backend & Game Developer
 
 I specialize in building robust **Backend Systems (.NET/Node.js)** and immersive **Interactive Experiences (Unity)**.
 My focus is on creating engineering tools that solve complex problems and optimizing performance for scalable applications.
