@@ -1,6 +1,6 @@
 # Hi there, I'm João Arthur! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 👨‍💻 Software Engineer | Backend & Game Developer
+### 👨‍💻 JR Software Engineer | Backend & Game Developer
 I specialize in building robust **Backend Systems** and immersive **Interactive Experiences**. My focus is on creating engineering tools that solve complex problems and optimizing performance for scalable applications.
 
 ---
